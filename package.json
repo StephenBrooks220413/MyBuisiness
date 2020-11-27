@@ -1,0 +1,25 @@
+{
+  "name": "clear-web-designs-studio",
+  "version": "2.0.0",
+  "description": "web design studios",
+  "main": "jquery-3.5.1.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "npm run server.js",
+    "build": "npm run build"
+  },
+  "keywords": [
+    "web",
+    "solutions",
+    "web",
+    "designs",
+    "web",
+    "sites",
+    "web",
+    "templates",
+    "online",
+    "sites"
+  ],
+  "author": "Stephen Brooks",
+  "license": "ISC"
+}
